@@ -1,0 +1,5 @@
+-   id: aws-openapi-lint
+    name: AWS OpenAPI Linter
+    entry: aws-openapi-lint
+    language: python
+    files: \.(json|yaml|yml)$
