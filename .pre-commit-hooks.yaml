@@ -1,5 +1,6 @@
 -   id: aws-openapi-lint
     name: AWS OpenAPI Linter
     entry: aws-openapi-lint
+    always_run: true
     language: python
     files: \.(json|yaml|yml)$
